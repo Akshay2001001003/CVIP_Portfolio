@@ -2,7 +2,7 @@ import React from "react";
 import ProjectCard from "./ProjectCard";
 import "./Projects.css";
 import portfolio from "./assets/port.png";
-import todo from "./assets/todo.png";
+import todo from "./assets/box.png";
 import codeeditor from "./assets/codeeditor.png";
 import netclone from "./assets/netclone.png";
 import filesharing from "./assets/filesharing.png";
@@ -18,7 +18,7 @@ const Projects = () => {
     },
     {
       imageSrc: todo,
-      title: "To-Do (React.Js)",
+      title: "Box-Office",
       overview: "A React.js To-Do List App",
       githubLink: "https://github.com/samar456/todo",
     },
