@@ -16,7 +16,7 @@ const About = () => {
           <img src={pic} alt="" />
         </div>
 
-        <h2>Hi, I am Samar</h2>
+        <h2>Hi, I am Akshay</h2>
 
         <div className="intro">
           I am a dedicated web developer in my final year of pursuing a B.Tech
