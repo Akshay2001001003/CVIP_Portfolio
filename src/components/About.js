@@ -32,18 +32,21 @@ const About = () => {
           <h2>Lets Connect :) </h2>
           <div className="icons">
             <a
-              href="https://www.linkedin.com/in/samar-papreja-887b591ba/"
+              href="https://www.linkedin.com/in/akshay-kumar-522077201"
               target="_blank"
             >
               <img src={l} alt="" />
             </a>
-            <a href="https://www.instagram.com/_samarpapreja/" target="_blank">
+            <a href="https://www.instagram.com/6979akshay" target="_blank">
               <img src={i} alt="" />
             </a>
-            <a href="https://twitter.com/samarpapre27841" target="_blank">
+            <a
+              href=" https://twitter.com/Akshayk17151226?t=YlDh5dM9jq0N6J3bbgRMcQ&s=08"
+              target="_blank"
+            >
               <img src={t} alt="" />
             </a>
-            <a href="https://github.com/samar456" target="_blank">
+            <a href="https://github.com/Akshay2001001003" target="_blank">
               {" "}
               <img src={g} alt="" />
             </a>
